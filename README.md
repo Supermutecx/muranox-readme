@@ -1,4 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/muranox/muranox/master/cover-thompson.png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/muranox/muranox/master/header.png"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/muranox/muranox/master/Hi.gif" width="30px" height="30px">, I am a blockchain developer </h1>
